@@ -1,4 +1,4 @@
-imporr Personaje from "js/ClasesGoT/Personaje.js"
+import Personaje from "/js/ClasesGoT/Personaje.js"
 class Luchador extends Personaje {
   arma;
   destreza;

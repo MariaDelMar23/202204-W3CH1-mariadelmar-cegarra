@@ -1,5 +1,5 @@
-import Personaje from "js/ClasesGoT/Personaje.js"
-
+import Personaje from "/js/ClasesGoT/Personaje.js"
+import Luchador from "/js/ClasesGoT/Luchador.js"
 class Escudero extends Personaje {
   sirveA;
   pelotismo;

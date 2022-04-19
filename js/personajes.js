@@ -1,7 +1,7 @@
-import Rey from "js/ClasesGoT/Rey.js"
-import Luchador from "js/ClasesGoT/Luchador.js"
-import Asesor from "js/ClasesGoT/Asesor.js"
-import Escudero from "js/ClasesGoT/Escudero.js"
+import Rey from "/js/ClasesGoT/Rey.js"
+import Luchador from "/js/ClasesGoT/Luchador.js"
+import Asesor from "/js/ClasesGoT/Asesor.js"
+import Escudero from "/js/ClasesGoT/Escudero.js"
 
 const joffrey = new Rey("Joffrey", "Baratheon", 16, 2);
 const jaime = new Luchador("Jaime", "Lannister", 45, "Espada", 7);
